@@ -1,7 +1,7 @@
 import os
 import docx
 import re
-os.chdir('C:\\Users\\mieri\\Documents\\Cover Letters (New)')
+os.chdir('YOUR FILE PATH')
 
 OpenFile = open('CoverLetterOutline.txt')
 
